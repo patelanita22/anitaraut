@@ -15,10 +15,10 @@ I believe in **learning by doing** and sharing my journey through projects and b
 ## ⚙️ Skills I’m Learning & Practicing  
 - 🐧 **Linux Fundamentals** (Commands, File System, Permissions)  
 - 🌱 **Git & GitHub** (Version Control & Collaboration)  
-- 📦 **Docker** (Containerization Basics)  
+- 📦 **Docker and Containerization** (Docker & Kubernetes)  
 - ☁️ **AWS Cloud** (S3, EC2, IAM, CLI)  
 - 🔧 **Terraform** (Infrastructure as Code)  
-- ⚡ **Jenkins** (CI/CD Pipelines)  
+- ⚡ **Jenkins** (CI/CD Pipelines) 
 - 📊 **Monitoring Tools** (Prometheus, Grafana - beginner level)  
 
 ---
