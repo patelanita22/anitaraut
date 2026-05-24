@@ -16,7 +16,7 @@ I believe in **learning by doing** and sharing my journey through projects and b
 - 🐧 **Linux Fundamentals** (Commands, File System, Permissions)  
 - 🌱 **Git & GitHub** (Version Control & Collaboration)  
 - 📦 **Docker and Containerization** (Docker & Kubernetes)  
-- ☁️ **AWS Cloud** (S3, EC2, IAM, CLI)  
+- ☁️ **AWS Cloud** (S3, EC2, IAM, VPC, Loadbalancer, CLI)  
 - 🔧 **Terraform** (Infrastructure as Code)  
 - ⚡ **Jenkins** (CI/CD Pipelines) 
 - 📊 **Monitoring Tools** (Prometheus, Grafana - beginner level)  
