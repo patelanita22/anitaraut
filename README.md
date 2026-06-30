@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me  
-I am **Anita Raut**,  **DevOps and Cloud Engineering**.  
+I am **Anita Raut**,  **DevOps and Cloud Engineer**.  
 With experience in Cloud/DevOps and recruitment, I am now building my skills in **Linux, Cloud, and Automation**.  
 
 I believe in **learning by doing** and sharing my journey through projects and blogs.  
